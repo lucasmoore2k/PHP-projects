@@ -11,5 +11,11 @@ Requisitos
 
 <p>2-Uma base de dados onde conste os dados salvos de usuário e login;</p>
 
-
+<h3>Tela de login</h3>
+<img src="https://github.com/lucasmoore2k/PHP-projects/blob/master/LoginUser/imgs/login_tela.png">
+  
+<h3>Usuário válido</h3>
+  <img src="https://github.com/lucasmoore2k/PHP-projects/blob/master/LoginUser/imgs/ok_tela.png">
+<h3>Usuário Invalido</h3>
+<img src="https://github.com/lucasmoore2k/PHP-projects/blob/master/LoginUser/imgs/erro_tela.png">
 
