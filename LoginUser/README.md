@@ -7,8 +7,9 @@ O projeto foi desenvolvido respeitando as regras de segurança através de SQL I
 
 Requisitos
 
-1-Modulo XAMMP que funciona como um servidor para o funcionamento do banco de dados e do PHP
-2-Uma base de dados onde conste os dados salvos de usuário e login
+<p>1-Modulo XAMMP que funciona como um servidor para o funcionamento do banco de dados e do PHP;</p>
+
+<p>2-Uma base de dados onde conste os dados salvos de usuário e login;</p>
 
 
 
