@@ -10,5 +10,5 @@ A divisão do projeto foi feita em duas pastas sendo uma pública e privada de f
 <h3>Sucesso no envio!</h3>
 <img src="https://github.com/lucasmoore2k/PHP-projects/blob/master/SendMail/sendmail%20public/imgs/sucesso_tela.png"></img>
  
-<h3>Falaha no envio!</h3>
+<h3>Falha no envio!</h3>
 <img src="https://github.com/lucasmoore2k/PHP-projects/blob/master/SendMail/sendmail%20public/imgs/erro_tela.png"></img>
